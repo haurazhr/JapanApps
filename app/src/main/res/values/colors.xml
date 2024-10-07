@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="active">#FF0000</color>  <!-- Replace with the color you want for active state -->
+    <color name="inactive">#888888</color>  <!-- Replace with the color you want for inactive state -->
+
+
+
+
+    <color name="primary">#008EFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
